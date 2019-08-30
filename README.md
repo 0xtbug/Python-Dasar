@@ -25,6 +25,6 @@ Download Termux di Playstore dan buka ketikan <i>command</i> dibawah.
 # #WINDOWS
 Download filenya
 <br>Simpan difolder python kalian
-<br>Buka CMD ketik command berikut.
+<br>Buka CMD ketik <i>command</i> berikut.
 <code><br>cd \python27
 <br>pydasar.py
