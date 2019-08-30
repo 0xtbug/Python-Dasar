@@ -16,8 +16,15 @@ apt get install python2
 
 # #TERMUX (ANDROID)
 Download Termux di Playstore dan buka ketikan <i>command</i> dibawah.
-<br>pkg install python2
+<br>pkg install python2<
 <br>pkg install git
 <br>git clone https://github.com/TubagusNM/Python-Dasar
 <br>cd Python-Dasar
 <br>python2 pydasar.py
+
+# #WINDOWS
+Download filenya
+<br>Simpan difolder python kalian
+<br>Buka CMD ketik command berikut.
+<code><br>cd \python27
+<br>pydasar.py
