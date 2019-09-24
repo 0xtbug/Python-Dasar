@@ -146,8 +146,7 @@ def bitwise():
 
 def menu():
 	#List Menu
-	system("clear")
-	system("cls")
+	system("cls | clear")
 	print (banner)
 	print (pembatas)
 	print "                LIST MENU               "
@@ -159,8 +158,7 @@ def menu():
 	print "5. Exit"
 	print "\n"
 	menu = input("Masukan angka diatas: ")
-	system("clear")
-	system("cls")
+	system("cls | clear")
 
 	#Pemanggilan
 	if menu == 1:
